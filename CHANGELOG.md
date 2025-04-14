@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-10)
+## Unreleased (2025-04-14)
 
 <section class="packages">
 
@@ -615,11 +615,13 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aman Bhansali
 -   Athan Reines
 -   Gururaj Gurram
+-   Rupa
+-   Shabareesh Shetty
 
 </section>
 
@@ -631,6 +633,12 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`c9c5acc`](https://github.com/stdlib-js/stdlib/commit/c9c5accbc966de5c699551722fb8e1bb37877740) - **docs:** update examples for `blas/base/wasm/csrot` [(#5760)](https://github.com/stdlib-js/stdlib/pull/5760) _(by Shabareesh Shetty)_
+-   [`cd6e347`](https://github.com/stdlib-js/stdlib/commit/cd6e34715d7ae5217f999318d9229e95cbab6385) - **docs:** update example _(by Athan Reines)_
+-   [`770c8fa`](https://github.com/stdlib-js/stdlib/commit/770c8fa6962456db2eaa37b2ba2c1c7282a663ff) - **chore:** remove empty lines _(by Athan Reines)_
+-   [`ea11328`](https://github.com/stdlib-js/stdlib/commit/ea113289e9129ffd1f51176afed9b5c795e1de21) - **docs:** update examples for `blas/base/wasm/cscal` [(#6495)](https://github.com/stdlib-js/stdlib/pull/6495) _(by Rupa, Athan Reines)_
+-   [`a6c8cab`](https://github.com/stdlib-js/stdlib/commit/a6c8cab0f0e6ba351af643c9b5c814710bac5439) - **docs:** fix examples _(by Athan Reines)_
+-   [`01a2787`](https://github.com/stdlib-js/stdlib/commit/01a27876b6668ecb1fb20285913270e14ae663a0) - **docs:** update examples for `blas/base/wasm/zdrot` [(#5805)](https://github.com/stdlib-js/stdlib/pull/5805) _(by Gururaj Gurram)_
 -   [`6716e62`](https://github.com/stdlib-js/stdlib/commit/6716e624585aaba0041ae183089cb2b92851f366) - **feat:** update namespace TypeScript declarations [(#5938)](https://github.com/stdlib-js/stdlib/pull/5938) _(by stdlib-bot)_
 -   [`460cd8f`](https://github.com/stdlib-js/stdlib/commit/460cd8f7b479efb7350a3b638be912b7e1bd5a7b) - **feat:** add `srotm` to namespace _(by Athan Reines)_
 -   [`8dc3f35`](https://github.com/stdlib-js/stdlib/commit/8dc3f35a39fdf2d24f7a9a80ed9e5d905d5cf10b) - **feat:** add `blas/base/wasm/srotm` [(#https://github.com/stodlib-js/stdlib/pull/5824)](https://github.com/stdlib-js/stdlib/pull/https://github.com/stodlib-js/stdlib/pull/5824) _(by Gururaj Gurram, Athan Reines)_
