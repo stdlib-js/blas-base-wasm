@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-26)
+## Unreleased (2025-06-02)
 
 <section class="features">
 
@@ -54,6 +54,8 @@
 
 <details>
 
+-   [`ec426b1`](https://github.com/stdlib-js/stdlib/commit/ec426b1d27b6f530cd9a15dc0f95c319fda38ac7) - **test:** update test descriptions _(by Athan Reines)_
+-   [`9b5fac2`](https://github.com/stdlib-js/stdlib/commit/9b5fac23e4e50e389738b2b749e1ec6922146ded) - **test:** update test descriptions _(by Athan Reines)_
 -   [`fdd8f3a`](https://github.com/stdlib-js/stdlib/commit/fdd8f3a3d04fb0aaca79cccf33707eeb43e1f97c) - **docs:** update examples for `blas/base/wasm/cswap` [(#5766)](https://github.com/stdlib-js/stdlib/pull/5766) _(by Gururaj Gurram, Athan Reines)_
 -   [`8f6c511`](https://github.com/stdlib-js/stdlib/commit/8f6c511ee70428b4b262fe29547f6d25f2e7d3bd) - **docs:** remove trailing semicolons _(by Athan Reines)_
 -   [`6570841`](https://github.com/stdlib-js/stdlib/commit/65708419e4449c1cc7628ef2b22739383c40a24e) - **feat:** add `blas/base/wasm/sdsdot` [(#6768)](https://github.com/stdlib-js/stdlib/pull/6768) _(by Shabareesh Shetty, Athan Reines, stdlib-bot)_
