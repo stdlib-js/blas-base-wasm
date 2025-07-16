@@ -4,12 +4,21 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-07-16)
 
 <section class="features">
 
 ### Features
 
+-   [`2e9d1b7`](https://github.com/stdlib-js/stdlib/commit/2e9d1b7a10a3058d75cfe6ea5470beacea086a63) - add `sswap` to namespace
+-   [`efbe0fa`](https://github.com/stdlib-js/stdlib/commit/efbe0fade8b7c664b085fd683e9d7e76147e16e3) - add `sdsdot` to namespace
+-   [`091b506`](https://github.com/stdlib-js/stdlib/commit/091b506bbff10a11cebaf052692aff11cd50ca62) - add `scnrm2` to namespace
+-   [`3cc3bc4`](https://github.com/stdlib-js/stdlib/commit/3cc3bc4bad2a228a7f3a987be7985c2d2fca2988) - add `scasum` to namespace
+-   [`6cf5764`](https://github.com/stdlib-js/stdlib/commit/6cf5764f637dd02b06970fc6716ab6aba955b7dc) - add `dznrm2` to namespace
+-   [`b666af6`](https://github.com/stdlib-js/stdlib/commit/b666af681143dbb7fad3eaccaa5221b5491a7207) - add `dsdot` to namespace
+-   [`e6adda2`](https://github.com/stdlib-js/stdlib/commit/e6adda297e305a79f5aca249d654cd197e8ec8bf) - add `blas/base/wasm/dznrm2` [(#6795)](https://github.com/stdlib-js/stdlib/pull/6795)
+-   [`1321911`](https://github.com/stdlib-js/stdlib/commit/1321911685e6ad3b66de365a1d314324d2838344) - add `blas/base/wasm/scasum` [(#6285)](https://github.com/stdlib-js/stdlib/pull/6285)
+-   [`68d705a`](https://github.com/stdlib-js/stdlib/commit/68d705a06a2ccf8c292b85a53b091e461ff90c14) - add `blas/base/wasm/scnrm2` [(#6791)](https://github.com/stdlib-js/stdlib/pull/6791)
 -   [`6570841`](https://github.com/stdlib-js/stdlib/commit/65708419e4449c1cc7628ef2b22739383c40a24e) - add `blas/base/wasm/sdsdot` [(#6768)](https://github.com/stdlib-js/stdlib/pull/6768)
 -   [`dae553b`](https://github.com/stdlib-js/stdlib/commit/dae553bfe3c1f0d651b07eda1b36e87a516df7ef) - add `blas/base/wasm/dsdot` [(#6751)](https://github.com/stdlib-js/stdlib/pull/6751)
 -   [`d7c6f8e`](https://github.com/stdlib-js/stdlib/commit/d7c6f8e4a21779f8f4e54dac4a045b8ea8dbd497) - add `blas/base/wasm/sswap` [(#6582)](https://github.com/stdlib-js/stdlib/pull/6582)
@@ -54,6 +63,18 @@
 
 <details>
 
+-   [`2e9d1b7`](https://github.com/stdlib-js/stdlib/commit/2e9d1b7a10a3058d75cfe6ea5470beacea086a63) - **feat:** add `sswap` to namespace _(by Athan Reines)_
+-   [`efbe0fa`](https://github.com/stdlib-js/stdlib/commit/efbe0fade8b7c664b085fd683e9d7e76147e16e3) - **feat:** add `sdsdot` to namespace _(by Athan Reines)_
+-   [`091b506`](https://github.com/stdlib-js/stdlib/commit/091b506bbff10a11cebaf052692aff11cd50ca62) - **feat:** add `scnrm2` to namespace _(by Athan Reines)_
+-   [`3cc3bc4`](https://github.com/stdlib-js/stdlib/commit/3cc3bc4bad2a228a7f3a987be7985c2d2fca2988) - **feat:** add `scasum` to namespace _(by Athan Reines)_
+-   [`6cf5764`](https://github.com/stdlib-js/stdlib/commit/6cf5764f637dd02b06970fc6716ab6aba955b7dc) - **feat:** add `dznrm2` to namespace _(by Athan Reines)_
+-   [`b666af6`](https://github.com/stdlib-js/stdlib/commit/b666af681143dbb7fad3eaccaa5221b5491a7207) - **feat:** add `dsdot` to namespace _(by Athan Reines)_
+-   [`e6adda2`](https://github.com/stdlib-js/stdlib/commit/e6adda297e305a79f5aca249d654cd197e8ec8bf) - **feat:** add `blas/base/wasm/dznrm2` [(#6795)](https://github.com/stdlib-js/stdlib/pull/6795) _(by Shabareesh Shetty, Athan Reines, stdlib-bot)_
+-   [`4dba421`](https://github.com/stdlib-js/stdlib/commit/4dba421f5bd8acafdd58e1c7681965b9ad267bc7) - **docs:** minor clean-up _(by Philipp Burckhardt)_
+-   [`69ad0f3`](https://github.com/stdlib-js/stdlib/commit/69ad0f330677990bab1fe157e167998d94a58eea) - **docs:** minor clean-up _(by Philipp Burckhardt)_
+-   [`1321911`](https://github.com/stdlib-js/stdlib/commit/1321911685e6ad3b66de365a1d314324d2838344) - **feat:** add `blas/base/wasm/scasum` [(#6285)](https://github.com/stdlib-js/stdlib/pull/6285) _(by Shabareesh Shetty, Athan Reines, stdlib-bot)_
+-   [`bac5dfa`](https://github.com/stdlib-js/stdlib/commit/bac5dfaf33f0d0b07988126ef565c726b56cf447) - **test:** update test expected values [(#7449)](https://github.com/stdlib-js/stdlib/pull/7449) _(by Shabareesh Shetty)_
+-   [`68d705a`](https://github.com/stdlib-js/stdlib/commit/68d705a06a2ccf8c292b85a53b091e461ff90c14) - **feat:** add `blas/base/wasm/scnrm2` [(#6791)](https://github.com/stdlib-js/stdlib/pull/6791) _(by Shabareesh Shetty, Athan Reines, stdlib-bot)_
 -   [`ec426b1`](https://github.com/stdlib-js/stdlib/commit/ec426b1d27b6f530cd9a15dc0f95c319fda38ac7) - **test:** update test descriptions _(by Athan Reines)_
 -   [`9b5fac2`](https://github.com/stdlib-js/stdlib/commit/9b5fac23e4e50e389738b2b749e1ec6922146ded) - **test:** update test descriptions _(by Athan Reines)_
 -   [`fdd8f3a`](https://github.com/stdlib-js/stdlib/commit/fdd8f3a3d04fb0aaca79cccf33707eeb43e1f97c) - **docs:** update examples for `blas/base/wasm/cswap` [(#5766)](https://github.com/stdlib-js/stdlib/pull/5766) _(by Gururaj Gurram, Athan Reines)_
