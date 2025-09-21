@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-16)
+## Unreleased (2025-09-21)
 
 <section class="features">
 
 ### Features
 
+-   [`30e0dfd`](https://github.com/stdlib-js/stdlib/commit/30e0dfd038ad78b093a6250982e40e8685c5775a) - update `blas/base/wasm` TypeScript declarations
+-   [`ab94c83`](https://github.com/stdlib-js/stdlib/commit/ab94c83ad9d32ce492cb65a0146bb6408973b478) - add `blas/base/wasm/zscal` [(#6810)](https://github.com/stdlib-js/stdlib/pull/6810)
 -   [`2e9d1b7`](https://github.com/stdlib-js/stdlib/commit/2e9d1b7a10a3058d75cfe6ea5470beacea086a63) - add `sswap` to namespace
 -   [`efbe0fa`](https://github.com/stdlib-js/stdlib/commit/efbe0fade8b7c664b085fd683e9d7e76147e16e3) - add `sdsdot` to namespace
 -   [`091b506`](https://github.com/stdlib-js/stdlib/commit/091b506bbff10a11cebaf052692aff11cd50ca62) - add `scnrm2` to namespace
@@ -63,6 +65,15 @@
 
 <details>
 
+-   [`30e0dfd`](https://github.com/stdlib-js/stdlib/commit/30e0dfd038ad78b093a6250982e40e8685c5775a) - **feat:** update `blas/base/wasm` TypeScript declarations _(by Philipp Burckhardt)_
+-   [`1891116`](https://github.com/stdlib-js/stdlib/commit/1891116f31ac5680c4349c2159bb5d115e6239ae) - **docs:** minor clean-up _(by Philipp Burckhardt)_
+-   [`ab94c83`](https://github.com/stdlib-js/stdlib/commit/ab94c83ad9d32ce492cb65a0146bb6408973b478) - **feat:** add `blas/base/wasm/zscal` [(#6810)](https://github.com/stdlib-js/stdlib/pull/6810) _(by Shabareesh Shetty, Athan Reines, stdlib-bot)_
+-   [`5acfd64`](https://github.com/stdlib-js/stdlib/commit/5acfd64326637640433a7e3ffc5d101db23ab1d8) - **docs:** fix example code _(by Philipp Burckhardt)_
+-   [`aaee349`](https://github.com/stdlib-js/stdlib/commit/aaee349836bc2324f9ce4e3428bc5828f28e372c) - **docs:** round return annotation values correctly _(by Philipp Burckhardt)_
+-   [`cedc9bb`](https://github.com/stdlib-js/stdlib/commit/cedc9bb0f92c950200128079cac8ab1da99ec7ed) - **docs:** fix example code _(by Philipp Burckhardt)_
+-   [`f344466`](https://github.com/stdlib-js/stdlib/commit/f344466c6dcfb8f52d7f3148acaadd52772938da) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
+-   [`2ec2116`](https://github.com/stdlib-js/stdlib/commit/2ec2116fb43058cddc4bf726defbe60823bd2590) - **docs:** fix typo _(by Athan Reines)_
+-   [`5388bba`](https://github.com/stdlib-js/stdlib/commit/5388bba36044d2de93dacb0134c6e5539b02928c) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`2e9d1b7`](https://github.com/stdlib-js/stdlib/commit/2e9d1b7a10a3058d75cfe6ea5470beacea086a63) - **feat:** add `sswap` to namespace _(by Athan Reines)_
 -   [`efbe0fa`](https://github.com/stdlib-js/stdlib/commit/efbe0fade8b7c664b085fd683e9d7e76147e16e3) - **feat:** add `sdsdot` to namespace _(by Athan Reines)_
 -   [`091b506`](https://github.com/stdlib-js/stdlib/commit/091b506bbff10a11cebaf052692aff11cd50ca62) - **feat:** add `scnrm2` to namespace _(by Athan Reines)_
