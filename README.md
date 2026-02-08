@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import blas from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-wasm@deno/mod.js';
+import blas from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-wasm@v0.1.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { ccopy, cscal, csrot, cswap, dasum, daxpy, dcopy, ddot, dnrm2, drot, drotm, dscal, dsdot, dswap, dznrm2, idamax, isamax, sasum, saxpy, scasum, scnrm2, scopy, sdot, sdsdot, snrm2, srot, srotm, sscal, sswap, zcopy, zdrot, zswap } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-wasm@deno/mod.js';
+import { ccopy, cscal, csrot, cswap, dasum, daxpy, dcopy, ddot, dnrm2, drot, drotm, dscal, dsdot, dswap, dznrm2, idamax, isamax, sasum, saxpy, scasum, scnrm2, scopy, sdot, sdsdot, snrm2, srot, srotm, sscal, sswap, zcopy, zdrot, zswap } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-wasm@v0.1.1-deno/mod.js';
 ```
 
 #### blas
@@ -104,7 +104,7 @@ var o = blas;
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import blas from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-wasm@deno/mod.js';
+import blas from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-wasm@v0.1.1-deno/mod.js';
 
 console.log( objectKeys( blas ) );
 ```
