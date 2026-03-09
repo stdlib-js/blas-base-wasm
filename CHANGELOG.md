@@ -2,6 +2,53 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-09)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`116c553`](https://github.com/stdlib-js/stdlib/commit/116c5535ab59050c12731f9cff548b0ae3bb8662) - **bench:** refactor to use string interpolation in `blas/base/wasm/dscal` [(#10545)](https://github.com/stdlib-js/stdlib/pull/10545) _(by Shubham)_
+-   [`db9486e`](https://github.com/stdlib-js/stdlib/commit/db9486e09c6c357c40d15ea3685930088827bc4e) - **bench:** refactor to use string interpolation in `blas/base/wasm/drot` [(#10546)](https://github.com/stdlib-js/stdlib/pull/10546) _(by Shubham)_
+-   [`5154372`](https://github.com/stdlib-js/stdlib/commit/51543724b7c82e0825fcac2de00d6267ae043d4e) - **bench:** refactor to use string interpolation in `blas/base/wasm/dznrm2` [(#10547)](https://github.com/stdlib-js/stdlib/pull/10547) _(by Shubham)_
+-   [`75fe17b`](https://github.com/stdlib-js/stdlib/commit/75fe17b70513a2f00bbffc911a7007084c781d13) - **bench:** refactor to use string interpolation in `blas/base/wasm/dswap` [(#10548)](https://github.com/stdlib-js/stdlib/pull/10548) _(by Shubham)_
+-   [`43e7c3a`](https://github.com/stdlib-js/stdlib/commit/43e7c3ac1af11e9f93a122a2e09d6e0a3b4a2cd5) - **bench:** refactor to use string interpolation in `blas/base/wasm/dsdot` [(#10549)](https://github.com/stdlib-js/stdlib/pull/10549) _(by Shubham)_
+-   [`1f61670`](https://github.com/stdlib-js/stdlib/commit/1f61670cd14e63d5dec2da8950a2d42a76542e4b) - **bench:** refactor to use string interpolation in `blas/base/wasm/drotm` [(#10550)](https://github.com/stdlib-js/stdlib/pull/10550) _(by Shubham)_
+-   [`841ab2e`](https://github.com/stdlib-js/stdlib/commit/841ab2eab4f9ee75fc3c99b0dfc186051061e0bf) - **bench:** refactor to use string interpolation in `blas/base/wasm/daxpy` [(#10505)](https://github.com/stdlib-js/stdlib/pull/10505) _(by Shubham)_
+-   [`34a2bca`](https://github.com/stdlib-js/stdlib/commit/34a2bcac9bd7b76456a57cd7bcbfea5a8da4c7be) - **bench:** refactor to use string interpolation in `blas/base/wasm/dasum` [(#10506)](https://github.com/stdlib-js/stdlib/pull/10506) _(by Shubham)_
+-   [`680d163`](https://github.com/stdlib-js/stdlib/commit/680d163820a00a331e89bcd9aabc5fcd3cc8d2c4) - **bench:** refactor to use string interpolation in `blas/base/wasm/ddot` [(#10507)](https://github.com/stdlib-js/stdlib/pull/10507) _(by Shubham)_
+-   [`0024bd6`](https://github.com/stdlib-js/stdlib/commit/0024bd635fe210b1d2a13ccc6abf34633a9cd1d7) - **bench:** refactor to use string interpolation in `blas/base/wasm/dcopy` [(#10508)](https://github.com/stdlib-js/stdlib/pull/10508) _(by Shubham)_
+-   [`ea168c7`](https://github.com/stdlib-js/stdlib/commit/ea168c728e02cb236ed771716c785534b6b77dad) - **bench:** refactor to use string interpolation in `blas/base/wasm/dnrm2` [(#10509)](https://github.com/stdlib-js/stdlib/pull/10509) _(by Shubham)_
+-   [`872f2fa`](https://github.com/stdlib-js/stdlib/commit/872f2fae9ed2edd497d3fc48dafc129f73dc103d) - **bench:** refactor to use string interpolation in `blas/base/wasm/ccopy` [(#10487)](https://github.com/stdlib-js/stdlib/pull/10487) _(by Shubham)_
+-   [`4ff9eb4`](https://github.com/stdlib-js/stdlib/commit/4ff9eb447269f2a45e7a7deb589e8675e67af11e) - **bench:** refactor to use string interpolation in `blas/base/wasm/cscal` [(#10488)](https://github.com/stdlib-js/stdlib/pull/10488) _(by Shubham)_
+-   [`e7bbe68`](https://github.com/stdlib-js/stdlib/commit/e7bbe68e59ac0a3adb146adab70fb5db47038847) - **bench:** refactor to use string interpolation in `blas/base/wasm/csrot` [(#10489)](https://github.com/stdlib-js/stdlib/pull/10489) _(by Shubham)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Shubham
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
