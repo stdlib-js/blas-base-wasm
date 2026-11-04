@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-18)
+## Unreleased (2026-11-04)
 
 <section class="commits">
 
@@ -12,6 +12,16 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
+-   [`3b7533a`](https://github.com/stdlib-js/stdlib/commit/3b7533ac9e7da01131699039c84e5388cefacd13) - **test:** migrate `blas/base/wasm/snrm2` to ULP-based assertions [(#16262)](https://github.com/stdlib-js/stdlib/pull/16262) _(by Athan Reines)_
+-   [`f9aa9fb`](https://github.com/stdlib-js/stdlib/commit/f9aa9fb2046ed69fed2591f791ed7c8c5a03171a) - **test:** migrate `blas/base/wasm/zdrot` to ULP-based assertions [(#16159)](https://github.com/stdlib-js/stdlib/pull/16159) _(by Athan Reines)_
+-   [`82ee225`](https://github.com/stdlib-js/stdlib/commit/82ee2255cb287caa67dca4b364ef072ac673cc27) - **test:** migrate `blas/base/wasm/csrot` to ULP-based assertions [(#15871)](https://github.com/stdlib-js/stdlib/pull/15871) _(by Athan Reines)_
+-   [`c3a1514`](https://github.com/stdlib-js/stdlib/commit/c3a15144cc92dcd933480bbc494df57490606cd9) - **test:** migrate `blas/base/wasm/drot` to ULP-based assertions [(#16068)](https://github.com/stdlib-js/stdlib/pull/16068) _(by Athan Reines)_
+-   [`eff53c5`](https://github.com/stdlib-js/stdlib/commit/eff53c53b69ed170fa8129a5ba5217507192a7f1) - **test:** migrate `blas/base/wasm/srotm` to ULP-based assertions [(#16060)](https://github.com/stdlib-js/stdlib/pull/16060) _(by Athan Reines)_
+-   [`ea03091`](https://github.com/stdlib-js/stdlib/commit/ea030918ce403f9302b41d0055f7e5ca958dc859) - **test:** migrate `blas/base/wasm/zscal` to ULP-based assertions [(#16049)](https://github.com/stdlib-js/stdlib/pull/16049) _(by Athan Reines)_
+-   [`bf20542`](https://github.com/stdlib-js/stdlib/commit/bf20542289f45849b591f42254df4dafa253f1ab) - **test:** migrate `blas/base/wasm/srot` to ULP-based assertions [(#15444)](https://github.com/stdlib-js/stdlib/pull/15444) _(by Athan Reines)_
+-   [`e78f04d`](https://github.com/stdlib-js/stdlib/commit/e78f04d723599f35af5b3c1bed2454d89a26d44d) - **test:** migrate `blas/base/wasm/cscal` to ULP-based assertions [(#15188)](https://github.com/stdlib-js/stdlib/pull/15188) _(by Athan Reines, Philipp Burckhardt)_
+-   [`890ad07`](https://github.com/stdlib-js/stdlib/commit/890ad078af38dacce5140a3441fbf0d4f08bb5c3) - **test:** migrate `blas/base/wasm/drotm` to ULP-based assertions [(#15275)](https://github.com/stdlib-js/stdlib/pull/15275) _(by Athan Reines, Philipp Burckhardt)_
 -   [`607bbc6`](https://github.com/stdlib-js/stdlib/commit/607bbc6e104c273e5b26cabfb21a8c06f3d5d375) - **build:** avoid false positives in ESLint rule `jsdoc-doctest-decimal-point` [(#14644)](https://github.com/stdlib-js/stdlib/pull/14644) _(by Philipp Burckhardt, Athan Reines)_
 -   [`72b23ea`](https://github.com/stdlib-js/stdlib/commit/72b23ea594cad1265cd358ade0e366d682f5858d) - **chore:** clean-up [(#14383)](https://github.com/stdlib-js/stdlib/pull/14383) _(by Philipp Burckhardt)_
 -   [`600a127`](https://github.com/stdlib-js/stdlib/commit/600a127f0a7b41a3dcfebaf5e9830823bd2a51ae) - **docs:** fix descriptions [(#14363)](https://github.com/stdlib-js/stdlib/pull/14363) _(by Philipp Burckhardt)_
